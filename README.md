@@ -2,6 +2,6 @@
 TEST POPQUIZ repository
 
 
-https://notebooks.gesis.org/binder/jupyter/user/robvdw-ai-pop-quiz-s5mq3s4i/doc/tree/HideQuiz.ipynb
+https://notebooks.gesis.org/binder/jupyter/user/robvdw-ai-pop-quiz-b5l2xtw7/lab/tree/preserve-responses.ipynb
 
 
