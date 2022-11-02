@@ -2,6 +2,5 @@
 TEST POPQUIZ repository
 
 
-https://mybinder.org/v2/gh/robvdw/AI-POP-QUIZ/HEAD?labpath=preserve-responses.ipynb
-
+https://hub-binder.mybinder.ovh/user/robvdw-ai-pop-quiz-uymdghfp/doc/tree/preserve-responses.ipynb
 
