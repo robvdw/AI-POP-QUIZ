@@ -14,3 +14,4 @@ Binder References
 * How to get [data](https://github.com/binder-examples/getting-data) in Binder.
 * Binder [examples](https://github.com/binder-examples)
 * Pip [poetry](https://python-poetry.org/docs/basic-usage/)
+* start.sh [example](https://github.com/jupyter/docker-stacks/tree/8d32a5208ca11ffbe1f92a8464aacdd55863698e/base-notebook)
