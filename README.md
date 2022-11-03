@@ -9,5 +9,5 @@
 
 Binder References
 
-* [start Bider notebook](https://binder.mybinder.ovh/)
-* Repo2docker(https://repo2docker.readthedocs.io/en/latest/config_files.html)
+* [start Binder notebook](https://binder.mybinder.ovh/)
+* [Repo2docker](https://repo2docker.readthedocs.io/en/latest/config_files.html)
