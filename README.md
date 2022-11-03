@@ -13,3 +13,4 @@ Binder References
 * [Repo2docker](https://repo2docker.readthedocs.io/en/latest/config_files.html)
 * How to get [data](https://github.com/binder-examples/getting-data) in Binder.
 * Binder [examples](https://github.com/binder-examples)
+* Pip [poetry](https://python-poetry.org/docs/basic-usage/)
